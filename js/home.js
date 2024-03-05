@@ -16,5 +16,5 @@ document.getElementById("testForm").addEventListener("submit", function(event) {
     const getBdate = document.getElementById("bDate").value;
 
     const age = calculateAge(getBdate);
-    alert(`Nombre: ${getName}, tu edad es: ${age}`);
+    alert(`${getName}, tu edad es: ${age} años`);
 });

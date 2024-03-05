@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Marrkkov/demoJSpage#readme",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "bootstrap": "^5.3.3",
+    "http-server": "^14.1.1",
+    "jquery": "^3.7.1"
   }
 }
