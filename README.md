@@ -1,3 +1,6 @@
+## NOTE: node.js is required.
+
+# Instructions:
 
 Run: "npm install" to install dependencies (bootstrap and jQuery).
 
